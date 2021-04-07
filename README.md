@@ -2,6 +2,14 @@
 
 ## Example of a basic MERN Stack Web App 
 
+## Links for installtion of Node, npm and yarn on Windown:
+1. Node and npm : https://nodejs.org/en/download/
+2. yarn : https://classic.yarnpkg.com/en/docs/install/#windows-stable
+
+## Links for installation of Node, npm and yarn on Ubuntu:
+1. Node and npm : https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04
+2. yarn : https://linuxize.com/post/how-to-install-yarn-on-ubuntu-18-04 
+
 ### Steps for downloading and installing the application : 
 
 1. Clone the repository using `git clone https://github.com/tanmaypardeshi/MERN.git`

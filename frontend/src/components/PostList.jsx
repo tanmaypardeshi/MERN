@@ -65,7 +65,7 @@ const PostList = () => {
                 <Card className={classes.card} key={post._id}>
                   <CardActionArea>
                     <CardContent>
-                      <Typography variant="h5" component="h2">
+                      <Typography variant="body1" component="h2">
                         {post.title}
                       </Typography>
                       <Typography
@@ -75,8 +75,8 @@ const PostList = () => {
                       >
                         ID : {post._id}
                       </Typography>
-                      <Typography variant="h5" component="h5">
-                        {post.body}
+                      <Typography variant="body2" component="h5">
+                        {post.body.length > 30 ? post.body.slice(0, 35) + "..." : post.body.length}
                       </Typography>
                     </CardContent>
                   </CardActionArea>

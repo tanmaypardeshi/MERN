@@ -2,7 +2,7 @@
 
 ## Example of a basic MERN Stack Web App 
 
-## Links for installtion of Node, npm and yarn on Windown:
+## Links for installtion of Node, npm and yarn on Windows:
 1. Node and npm : https://nodejs.org/en/download/
 2. yarn : https://classic.yarnpkg.com/en/docs/install/#windows-stable
 
